@@ -14,9 +14,13 @@ Technology: Godot
 
 # Dev Team:
 Jakub Sarnowski
+
 Błażej Tempski
+
 Damian Goleniewski
+
 Andrzej Raszka
+
 Bartosz Kłódka (outsourcing)
 
 # Introduction
