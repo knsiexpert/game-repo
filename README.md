@@ -1,1 +1,1 @@
-# game-repo
+# Repozytorium projektu gry
