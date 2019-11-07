@@ -23,6 +23,12 @@ Andrzej Raszka
 
 Bartosz Kłódka (outsourcing)
 
+Helena Łomanik
+
+Liza Kochyna
+
+Jacek Walczak
+
 # Introduction
 
 # Game concepts
